@@ -14,7 +14,6 @@
 
   <modules>
     <module>tencent-wechat</module>
-    <module>tencent-wechat</module>
     <module>tencent-miniprogram</module>
     <module>tencent-qywechat</module>
   </modules>
