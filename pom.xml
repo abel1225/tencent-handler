@@ -41,7 +41,7 @@
     <guava.version>25.0-jre</guava.version>
     <commons.lang3.version>3.8</commons.lang3.version>
     <commons.codec.version>1.12</commons.codec.version>
-    <httpclient.version>4.5.3</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <httpmime.version>4.5.3</httpmime.version>
     <httpcore.version>4.4.10</httpcore.version>
     <jcl.over.slf4j.version>1.7.25</jcl.over.slf4j.version>
